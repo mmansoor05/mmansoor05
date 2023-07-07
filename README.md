@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/355439/screenshots/1636997/desk.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmansoor05&label=Profile%20views&color=0e75b6&style=flat" alt="mmansoor05" /> </p>
 
-- 🌱 I’m currently learning **unit testing**
+- 🌱 I’m currently learning **Power Apps**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-680mqaq8v-mahnoormansoor05-gmailcom.vercel.app/](https://react-portfolio-680mqaq8v-mahnoormansoor05-gmailcom.vercel.app/)
 
