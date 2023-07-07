@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **mahnoormansoor05@gmail.com**
 
-- ⚡ Fun fact **I don't like coffee.**
+- ⚡ Fun fact **I love true crime podcasts.**
 
 
 <h3 align="left">Connect with me:</h3>
